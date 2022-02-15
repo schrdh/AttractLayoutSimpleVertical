@@ -5,4 +5,4 @@ Simple vertical layout for Attract Mode frontend (https://github.com/mickelson/a
 ![Preview](https://github.com/schrdh/AttractLayoutSimpleVertical/raw/master/preview.png)
 
 ### Setup instructions
-Copy folder 'layouts/Simple Vertical' to your attract mode layout folder. That's all!
+Copy folder 'layouts/Simple Vertical' to your attract mode layout folder.
